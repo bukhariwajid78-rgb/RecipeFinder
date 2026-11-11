@@ -13,10 +13,9 @@ Data comes from the free [TheMealDB](https://www.themealdb.com/api.php) API.
 - Light and dark theme, edge-to-edge layout, bottom navigation
 
 ## Screenshots
-<!-- Add your screenshots to a /screenshots folder and link them here -->
-| Home | Detail | Favorites |
+| Home | Detail | Favorited |
 |------|--------|-----------|
-| _add_ | _add_ | _add_ |
+| <img src="WhatsApp%20Image%202026-11-11%20at%2001.34.20.jpeg" width="250"> | <img src="WhatsApp%20Image%202026-11-11%20at%2001.34.20%20(1).jpeg" width="250"> | <img src="WhatsApp%20Image%202026-11-11%20at%2001.34.20%20(2).jpeg" width="250"> |
 
 ## Tech stack
 - Kotlin, Jetpack Compose, Material 3
