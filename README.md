@@ -4,6 +4,10 @@ A modern Android recipe app built with **Kotlin** and **Jetpack Compose**. Brows
 
 Data comes from the free [TheMealDB](https://www.themealdb.com/api.php) API.
 
+## Video Tutorial
+
+Watch the full tutorial and code walkthrough on YouTube (Bukhari Codes): [Build a Recipe Finder Android App | Kotlin + Jetpack Compose](https://youtu.be/jT_exr84dAQ)
+
 ## Features
 - Browse recipes by category with pill-style filters
 - Search any dish by name
